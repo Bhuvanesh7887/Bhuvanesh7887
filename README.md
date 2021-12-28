@@ -1,8 +1,11 @@
 ### Hi there, I'm Bhuvanesh 👋
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="500" height="320" />
- - 👀 I’m interested in Web development
+ - 👀 I’m interested in Web development 
+ 
  - 🌱 I’m currently learning BCA
+ 
 - 😄 Pronouns: Techie
+
 - ⚡ Fun fact: Always be happy
 
 ### I code in
