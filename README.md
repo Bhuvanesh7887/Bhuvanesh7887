@@ -3,7 +3,7 @@
 
  - 👀 I’m interested in Web development 
  
- - 🌱 I’m currently learning BCA
+ - 🌱 I’m currently pursuing BCA
 
  - ☁️ Exploring Cloud technology
  
